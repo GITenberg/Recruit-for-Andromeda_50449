@@ -1,4 +1,8 @@
 _repo: Recruit-for-Andromeda_50449
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50449-h/images/cover.jpg
 creator:
   author:
     agent_name: Marlowe, Stephen
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32369
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50449#Recruit-for-Andromeda
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-11-13'
 gutenberg_type: Text
